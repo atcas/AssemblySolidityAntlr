@@ -1,0 +1,1 @@
+assembly { 2 3 add "abc" and }
